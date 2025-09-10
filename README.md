@@ -18,4 +18,4 @@ git checkout -b FromTest2
 ![8](./images/7.png)
 ![9](./images/8.png)
 ![10](./images/9.png)
-ทดสอบ
+เสร็จ
